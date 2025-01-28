@@ -1,4 +1,4 @@
-//creating common info table
+//creating common account info table
 const AccountID = 231;
 let name = 'Abdullah Khursheed';
 let email= 'abdulla12345@gmail.com';
